@@ -7,7 +7,7 @@ from openai import OpenAI
 
 if __name__ == "__main__":
     client = OpenAI(
-        api_key="sk-btdctqegducmsoqbdcchdevgrjotlyoxryqghbhtmkjefgdw",
+        api_key="xxx",
         base_url="https://api.siliconflow.cn/v1",
     )
 
